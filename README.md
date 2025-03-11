@@ -6,5 +6,5 @@
 
 🌱 I’m currently learning Next.js and Nuxt.js
 
-📫 You can reach me at my [LinkedIn profile] ([https://pages.github.com/](https://www.linkedin.com/in/fredy-siswanto/)).
+📫 You can reach me at my [LinkedIn profile]([https://pages.github.com/](https://www.linkedin.com/in/fredy-siswanto/)).
 
