@@ -1,6 +1,6 @@
 
 
-👋 Hi, I’m @fredysiswanto, 4 years experience as QA Engineer and Automate Testing.
+👋 Hi, I’m @fredysiswanto,
 
 👀 I’m interested in automate testing, IoT, Arduino and Anime
 
